@@ -50,8 +50,8 @@ while (salir==False):
 		print 
 		print 
 		print "            ________________________________               "
-		print "           |                      	       |               "
-		print "           |                      	       |              "
+		print "           |                                |               "
+		print "           |                                |              "
 		print "           |                                |   a            "
 		print "           |                                |   n            "
 		print "           |                                |   c            "
